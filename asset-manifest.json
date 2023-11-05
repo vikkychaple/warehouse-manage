@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/warehouse-manage/static/css/main.6158fb18.css",
+    "main.js": "/warehouse-manage/static/js/main.b86b3739.js",
+    "static/media/background.jpg": "/warehouse-manage/static/media/background.105b1dd00c186fe14efc.jpg",
+    "index.html": "/warehouse-manage/index.html",
+    "main.6158fb18.css.map": "/warehouse-manage/static/css/main.6158fb18.css.map",
+    "main.b86b3739.js.map": "/warehouse-manage/static/js/main.b86b3739.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6158fb18.css",
+    "static/js/main.b86b3739.js"
+  ]
+}
